@@ -1,0 +1,38 @@
+[
+    {
+        "subject": "Digital Design",
+        "task_name": "K-map practice",
+        "deadline": "2026-11-24",
+        "difficulty": 5,
+        "target_score": 90.0,
+        "estimated_hours": 3.0,
+        "progress": 30.0
+    },
+    {
+        "subject": "Python",
+        "task_name": "Project testing",
+        "deadline": "2026-11-27",
+        "difficulty": 3,
+        "target_score": 85.0,
+        "estimated_hours": 2.5,
+        "progress": 40.0
+    },
+    {
+        "subject": "Calculus",
+        "task_name": "Sequence revision",
+        "deadline": "2026-12-02",
+        "difficulty": 4,
+        "target_score": 80.0,
+        "estimated_hours": 2.0,
+        "progress": 60.0
+    },
+    {
+        "subject": "bio",
+        "task_name": "study",
+        "deadline": "2026-11-26",
+        "difficulty": 4,
+        "target_score": 90.0,
+        "estimated_hours": 6.0,
+        "progress": 0.0
+    }
+]
